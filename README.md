@@ -27,3 +27,5 @@ https://github.com/2Pankaj/Cards
 App Link(Deployed On Render):
 
 https://cardapp-bbf4.onrender.com/
+
+(As i'm not using paid services of Render it may take some time to open the App Link)
