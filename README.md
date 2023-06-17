@@ -15,5 +15,8 @@ npm start
 
 Open your web browser and visit http://localhost:3000 to access the app.
 
-GitHub Link: 
-App Link(Deployed On Render): https://cardapp-bbf4.onrender.com/
+GitHub Link
+https://github.com/2Pankaj/Cards
+
+App Link(Deployed On Render)
+https://cardapp-bbf4.onrender.com/
